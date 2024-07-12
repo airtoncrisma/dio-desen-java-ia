@@ -6,6 +6,10 @@ public class SmartTv {
     int volume = 25;
 
     
+    
+    /** 
+     * @param novoCanal
+     */
     public void mudarCanal(int novoCanal){
         canal = novoCanal;
     }
