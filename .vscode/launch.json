@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Comentarios",
+            "request": "launch",
+            "mainClass": "edu.airton.javadoc.Comentarios",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.airton.metodos.Usuario",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -44,6 +65,17 @@
             "request": "launch",
             "mainClass": "edu.airton.tipovariaveis.TiposVariaveis",
             "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Airton",
+                "Loureiro",
+                "34",
+                "1.69"
+            ]
         }
     ]
 }
