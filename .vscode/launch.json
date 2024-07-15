@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "edu.airton.estrurepeticao.ExemploDoWhile",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "edu.airton.estrurepeticao.ExemploWhile",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "edu.airton.estrurepeticao.ExemploBreakContinue",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "edu.airton.estrurepeticao.ExemploFor",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "edu.airton.estrucondicionais.PlanoOperadora",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "edu.airton.estrucondicionais.SistemaMedida",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "resultadoEscolar",
+            "request": "launch",
+            "mainClass": "edu.airton.estrucondicionais.resultadoEscolar",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "edu.airton.estrucondicionais.CaixaEletronico",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
             "name": "Comentarios",
             "request": "launch",
             "mainClass": "edu.airton.javadoc.Comentarios",
