@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SimulacaoBancaria",
+            "request": "launch",
+            "mainClass": "edu.airton.expldesafioscodbasic.SimulacaoBancaria",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "edu.airton.estrurepeticao.ExemploWhile",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "edu.airton.estrucondicionais.CaixaEletronico",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "edu.airton.estrucondicionais.PlanoOperadora",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "edu.airton.estrucondicionais.SistemaMedida",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "edu.airton.estrurepeticao.ExemploDoWhile",
