@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaIbge",
+            "request": "launch",
+            "mainClass": "edu.airton.Enums.SistemaIbge",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "SistemaCadastro",
+            "request": "launch",
+            "mainClass": "edu.airton.Construtores.SistemaCadastro",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "Escola",
+            "request": "launch",
+            "mainClass": "edu.airton.escola.Escola",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
             "name": "ControleSimplesDeSaques",
             "request": "launch",
             "mainClass": "edu.airton.expldesafioscodbasic.ControleSimplesDeSaques",
