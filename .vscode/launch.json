@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ControleSimplesDeSaques",
+            "request": "launch",
+            "mainClass": "edu.airton.expldesafioscodbasic.ControleSimplesDeSaques",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "VerificacaoChequeEspecial",
+            "request": "launch",
+            "mainClass": "edu.airton.expldesafioscodbasic.VerificacaoChequeEspecial",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "VerificadorElegibilidadeConta",
+            "request": "launch",
+            "mainClass": "edu.airton.expldesafioscodbasic.VerificadorElegibilidadeConta",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "VerificadorNumeroConta",
+            "request": "launch",
+            "mainClass": "edu.airton.expldesafioscodbasic.VerificadorNumeroConta",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "edu.airton.estruexcepcionais.ExemploExcecao",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
             "name": "SimulacaoBancaria",
             "request": "launch",
             "mainClass": "edu.airton.expldesafioscodbasic.SimulacaoBancaria",
