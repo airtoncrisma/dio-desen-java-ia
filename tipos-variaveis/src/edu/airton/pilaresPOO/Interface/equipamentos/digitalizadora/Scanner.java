@@ -1,8 +1,7 @@
-package edu.airton.pilaresPOO.Interface.java;
+package equipamentos.digitalizadora;
 
-public class Digitalizador {
+public class Scanner implements Digitalizador {
     public void digitalizar() {
         System.out.println("DIGITALIZANDO");
     }
-    
 }

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fabrica",
+            "request": "launch",
+            "mainClass": "estabelecimento.Fabrica",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
             "name": "ComputadorPedrinho",
             "request": "launch",
             "mainClass": "edu.airton.pilaresPOO.ComputadorPedrinho",
