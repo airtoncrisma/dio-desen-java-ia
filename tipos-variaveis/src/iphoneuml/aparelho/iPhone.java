@@ -4,7 +4,11 @@ import iphoneuml.interfaces.AparelhoTelefonico;
 import iphoneuml.interfaces.NavegadorInternet;
 import iphoneuml.interfaces.ReprodutorMusical;
 import java.util.Scanner;
-
+/** 
+	 * Autor: Airton Loureiro
+	 * Desafio DIO: Modelagem e Diagramação de um Componente iPhone
+	 * Ano:2024
+	 */
 public class iPhone implements AparelhoTelefonico, ReprodutorMusical, NavegadorInternet {
 
 	@Override
@@ -54,15 +58,20 @@ public class iPhone implements AparelhoTelefonico, ReprodutorMusical, NavegadorI
 		System.out.println("Atualizando página");
 	}
 
+	
+	/** 
+	 * @param args
+	 * @throws InterruptedException
+	 */
 	public static void main(String[] args) throws InterruptedException {
 		Scanner sc = new Scanner(System.in);
 		iPhone iphone = new iPhone();
 		int opcao;
 		do {
-			System.out.println("Selecione uma opção no menu: \n +" + "1: Efetuar ligação \n +"
-					+ "2: Atender ligação \n +" + "3: Iniciar correio de voz \n +" + "4: Selecionar música \n +"
-					+ "5: Tocar música \n +" + "6: Pausar música \n +" + "7: Exibir página no navegador \n +"
-					+ "8: Abrir nova aba no navegador \n +" + "9: Atualizar página no navegador \n +" + "0: Desligar");
+			System.out.println("Selecione uma opção no menu: \n --" + "1: Efetuar ligação \n --"
+					+ "2: Atender ligação \n --" + "3: Iniciar correio de voz \n --" + "4: Selecionar música \n --"
+					+ "5: Tocar música \n --" + "6: Pausar música \n --" + "7: Exibir página no navegador \n --"
+					+ "8: Abrir nova aba no navegador \n --" + "9: Atualizar página no navegador \n --" + "0: Desligar");
 
 			opcao = sc.nextInt();
 
@@ -104,11 +113,11 @@ public class iPhone implements AparelhoTelefonico, ReprodutorMusical, NavegadorI
 				Thread.sleep(1000);
 				break;
 			case 0:
-				System.out.println("Desligando o aparelho");
+				System.out.println("Desligando o aparelho - See you later");
 				Thread.sleep(900);
 				break;
 			default:
-				System.out.println("Opção inválida. Insira um número de 0 a 9.");
+				System.out.println("Opção inválida. Por favor, insira um número de 0 a 9.");
 				Thread.sleep(1000);
 			}
 		} while (opcao != 0);

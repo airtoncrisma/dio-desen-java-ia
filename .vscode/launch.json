@@ -9,6 +9,13 @@
             "name": "iPhone",
             "request": "launch",
             "mainClass": "iphoneuml.aparelho.iPhone",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "iPhone",
+            "request": "launch",
+            "mainClass": "iphoneuml.aparelho.iPhone",
             "projectName": "dio-desen-java-ia_9ee9070c"
         },
         {
