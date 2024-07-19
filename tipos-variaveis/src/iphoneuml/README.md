@@ -11,7 +11,7 @@ Com base nisto, foram implementadas as classes e interfaces no formato de arquiv
 </p>
 
 
-Nesta seção, descrevemos as funcionalidades que seram modeladas
+Nesta seção, descrevemos as funcionalidades que serão modeladas.
 
 
 ### `iPhone`
