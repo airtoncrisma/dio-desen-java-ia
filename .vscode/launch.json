@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "iPhone",
+            "request": "launch",
+            "mainClass": "iphoneuml.aparelho.iPhone",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "iPhone",
+            "request": "launch",
+            "mainClass": "iphoneuml.iPhone",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "Iphone",
+            "request": "launch",
+            "mainClass": "iphoneuml.Iphone",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "Fabrica",
+            "request": "launch",
+            "mainClass": "estabelecimento.Fabrica",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
             "name": "Fabrica",
             "request": "launch",
             "mainClass": "estabelecimento.Fabrica",
