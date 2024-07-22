@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OrdenacaoPessoa",
+            "request": "launch",
+            "mainClass": "edu.airton.collection.list.Ordenacao.OrdenacaoPessoa",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "CatalogoLivros",
+            "request": "launch",
+            "mainClass": "edu.airton.collection.list.Pesquisa.CatalogoLivros",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "Listatarefa",
+            "request": "launch",
+            "mainClass": "edu.airton.collection.list.OperacoesBasicas.Listatarefa",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
             "name": "iPhone",
             "request": "launch",
             "mainClass": "iphoneuml.aparelho.iPhone",
