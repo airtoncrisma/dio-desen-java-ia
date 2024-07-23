@@ -39,7 +39,7 @@ public static void main(String[] args) {
     ordenacaoPessoa.adicionarPessoa("Nome 4", 17, 1.56);
     ordenacaoPessoa.adicionarPessoa("Nome 5", 50, 1.69);
 
-    System.out.println(ordenacaoPessoa.pessoalist);
+    // System.out.println(ordenacaoPessoa.pessoalist);
     System.out.println(ordenacaoPessoa.ordenarPorIdade());
     System.out.println(ordenacaoPessoa.ordenarPorAltura());
 }

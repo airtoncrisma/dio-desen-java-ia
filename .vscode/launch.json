@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AgendaEventos",
+            "request": "launch",
+            "mainClass": "edu.airton.collection.MapInterface.Ordenacao.AgendaEventos",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "EstoqueProdutos",
+            "request": "launch",
+            "mainClass": "edu.airton.collection.MapInterface.Pesquisa.EstoqueProdutos",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "edu.airton.collection.MapInterface.OperacoesBasicas.AgendaContatos",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "CadastroProdutos",
+            "request": "launch",
+            "mainClass": "edu.airton.collection.setinterface.Ordenacao.CadastroProdutos",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "edu.airton.collection.setinterface.Pesquisa.AgendaContatos",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "ConjuntoConvidados",
+            "request": "launch",
+            "mainClass": "edu.airton.collection.setinterface.OperacoesBasicas.ConjuntoConvidados",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
             "name": "OrdenacaoPessoa",
             "request": "launch",
             "mainClass": "edu.airton.collection.list.Ordenacao.OrdenacaoPessoa",
