@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryOperatorExample",
+            "request": "launch",
+            "mainClass": "edu.airton.StreamApi.functional_interface.BinaryOperatorExample",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "PredicateExample",
+            "request": "launch",
+            "mainClass": "edu.airton.StreamApi.functional_interface.PredicateExample",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "FunctionExample",
+            "request": "launch",
+            "mainClass": "edu.airton.StreamApi.functional_interface.FunctionExample",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "SupplierExample",
+            "request": "launch",
+            "mainClass": "edu.airton.StreamApi.functional_interface.SupplierExample",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
+            "name": "ConsumerExample",
+            "request": "launch",
+            "mainClass": "edu.airton.StreamApi.functional_interface.ConsumerExample",
+            "projectName": "dio-desen-java-ia_f7b2e780"
+        },
+        {
+            "type": "java",
             "name": "AgendaEventos",
             "request": "launch",
             "mainClass": "edu.airton.collection.MapInterface.Ordenacao.AgendaEventos",
