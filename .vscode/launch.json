@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "desafiobanco.Main",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
             "name": "BinaryOperatorExample",
             "request": "launch",
             "mainClass": "edu.airton.StreamApi.functional_interface.BinaryOperatorExample",
