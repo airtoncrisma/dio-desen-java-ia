@@ -9,6 +9,13 @@
             "name": "Desafio",
             "request": "launch",
             "mainClass": "desafiointermediario.Desafio",
+            "projectName": "dio-desen-java-ia_9ee9070c"
+        },
+        {
+            "type": "java",
+            "name": "Desafio",
+            "request": "launch",
+            "mainClass": "desafiointermediario.Desafio",
             "projectName": "dio-desen-java-ia_f7b2e780"
         },
         {
