@@ -1,3 +1,4 @@
 {
-    "java.configuration.detectJdksAtStart": true
+    "java.configuration.detectJdksAtStart": true,
+    "java.debug.settings.onBuildFailureProceed": true
 }
